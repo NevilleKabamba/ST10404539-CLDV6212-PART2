@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\israe\\source\\repos\\AbcRetailFA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA20D300-6352-4DEF-BDA2-4F14E7035FB1}|AbcRetailFA\\AbcRetailFA.csproj|c:\\users\\israe\\source\\repos\\abcretailfa\\abcretailfa\\filesharefunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA20D300-6352-4DEF-BDA2-4F14E7035FB1}|AbcRetailFA\\AbcRetailFA.csproj|solutionrelative:abcretailfa\\filesharefunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA20D300-6352-4DEF-BDA2-4F14E7035FB1}|AbcRetailFA\\AbcRetailFA.csproj|c:\\users\\israe\\source\\repos\\abcretailfa\\abcretailfa\\queuestoragefunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA20D300-6352-4DEF-BDA2-4F14E7035FB1}|AbcRetailFA\\AbcRetailFA.csproj|solutionrelative:abcretailfa\\queuestoragefunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA20D300-6352-4DEF-BDA2-4F14E7035FB1}|AbcRetailFA\\AbcRetailFA.csproj|c:\\users\\israe\\source\\repos\\abcretailfa\\abcretailfa\\blobstoragefunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA20D300-6352-4DEF-BDA2-4F14E7035FB1}|AbcRetailFA\\AbcRetailFA.csproj|solutionrelative:abcretailfa\\blobstoragefunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA20D300-6352-4DEF-BDA2-4F14E7035FB1}|AbcRetailFA\\AbcRetailFA.csproj|c:\\users\\israe\\source\\repos\\abcretailfa\\abcretailfa\\storetablefunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA20D300-6352-4DEF-BDA2-4F14E7035FB1}|AbcRetailFA\\AbcRetailFA.csproj|solutionrelative:abcretailfa\\storetablefunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA20D300-6352-4DEF-BDA2-4F14E7035FB1}|AbcRetailFA\\AbcRetailFA.csproj|c:\\users\\israe\\source\\repos\\abcretailfa\\abcretailfa\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{BA20D300-6352-4DEF-BDA2-4F14E7035FB1}|AbcRetailFA\\AbcRetailFA.csproj|solutionrelative:abcretailfa\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA20D300-6352-4DEF-BDA2-4F14E7035FB1}|AbcRetailFA\\AbcRetailFA.csproj|c:\\users\\israe\\source\\repos\\abcretailfa\\abcretailfa\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BA20D300-6352-4DEF-BDA2-4F14E7035FB1}|AbcRetailFA\\AbcRetailFA.csproj|solutionrelative:abcretailfa\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA20D300-6352-4DEF-BDA2-4F14E7035FB1}|AbcRetailFA\\AbcRetailFA.csproj|c:\\users\\israe\\source\\repos\\abcretailfa\\abcretailfa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA20D300-6352-4DEF-BDA2-4F14E7035FB1}|AbcRetailFA\\AbcRetailFA.csproj|solutionrelative:abcretailfa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA20D300-6352-4DEF-BDA2-4F14E7035FB1}|AbcRetailFA\\AbcRetailFA.csproj|c:\\users\\israe\\source\\repos\\abcretailfa\\abcretailfa\\host.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BA20D300-6352-4DEF-BDA2-4F14E7035FB1}|AbcRetailFA\\AbcRetailFA.csproj|solutionrelative:abcretailfa\\host.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA20D300-6352-4DEF-BDA2-4F14E7035FB1}|AbcRetailFA\\AbcRetailFA.csproj|c:\\users\\israe\\source\\repos\\abcretailfa\\abcretailfa\\abcretailfa.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BA20D300-6352-4DEF-BDA2-4F14E7035FB1}|AbcRetailFA\\AbcRetailFA.csproj|solutionrelative:abcretailfa\\abcretailfa.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QueueStorageFunction.cs",
+              "DocumentMoniker": "C:\\Users\\israe\\source\\repos\\AbcRetailFA\\AbcRetailFA\\QueueStorageFunction.cs",
+              "RelativeDocumentMoniker": "AbcRetailFA\\QueueStorageFunction.cs",
+              "ToolTip": "C:\\Users\\israe\\source\\repos\\AbcRetailFA\\AbcRetailFA\\QueueStorageFunction.cs",
+              "RelativeToolTip": "AbcRetailFA\\QueueStorageFunction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T13:37:05.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StoreTableFunction.cs",
+              "DocumentMoniker": "C:\\Users\\israe\\source\\repos\\AbcRetailFA\\AbcRetailFA\\StoreTableFunction.cs",
+              "RelativeDocumentMoniker": "AbcRetailFA\\StoreTableFunction.cs",
+              "ToolTip": "C:\\Users\\israe\\source\\repos\\AbcRetailFA\\AbcRetailFA\\StoreTableFunction.cs",
+              "RelativeToolTip": "AbcRetailFA\\StoreTableFunction.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T13:20:20.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "readme.md",
+              "DocumentMoniker": "C:\\Users\\israe\\source\\repos\\AbcRetailFA\\AbcRetailFA\\readme.md",
+              "RelativeDocumentMoniker": "AbcRetailFA\\readme.md",
+              "ToolTip": "C:\\Users\\israe\\source\\repos\\AbcRetailFA\\AbcRetailFA\\readme.md",
+              "RelativeToolTip": "AbcRetailFA\\readme.md",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-09-25T14:26:25.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlobStorageFunction.cs",
+              "DocumentMoniker": "C:\\Users\\israe\\source\\repos\\AbcRetailFA\\AbcRetailFA\\BlobStorageFunction.cs",
+              "RelativeDocumentMoniker": "AbcRetailFA\\BlobStorageFunction.cs",
+              "ToolTip": "C:\\Users\\israe\\source\\repos\\AbcRetailFA\\AbcRetailFA\\BlobStorageFunction.cs",
+              "RelativeToolTip": "AbcRetailFA\\BlobStorageFunction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T13:34:40.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileShareFunction.cs",
+              "DocumentMoniker": "C:\\Users\\israe\\source\\repos\\AbcRetailFA\\AbcRetailFA\\FileShareFunction.cs",
+              "RelativeDocumentMoniker": "AbcRetailFA\\FileShareFunction.cs",
+              "ToolTip": "C:\\Users\\israe\\source\\repos\\AbcRetailFA\\AbcRetailFA\\FileShareFunction.cs",
+              "RelativeToolTip": "AbcRetailFA\\FileShareFunction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T13:29:17.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\Users\\israe\\source\\repos\\AbcRetailFA\\AbcRetailFA\\local.settings.json",
+              "RelativeDocumentMoniker": "AbcRetailFA\\local.settings.json",
+              "ToolTip": "C:\\Users\\israe\\source\\repos\\AbcRetailFA\\AbcRetailFA\\local.settings.json",
+              "RelativeToolTip": "AbcRetailFA\\local.settings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-25T13:44:24.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\israe\\source\\repos\\AbcRetailFA\\AbcRetailFA\\Program.cs",
+              "RelativeDocumentMoniker": "AbcRetailFA\\Program.cs",
+              "ToolTip": "C:\\Users\\israe\\source\\repos\\AbcRetailFA\\AbcRetailFA\\Program.cs",
+              "RelativeToolTip": "AbcRetailFA\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T13:43:38.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "host.json",
+              "DocumentMoniker": "C:\\Users\\israe\\source\\repos\\AbcRetailFA\\AbcRetailFA\\host.json",
+              "RelativeDocumentMoniker": "AbcRetailFA\\host.json",
+              "ToolTip": "C:\\Users\\israe\\source\\repos\\AbcRetailFA\\AbcRetailFA\\host.json",
+              "RelativeToolTip": "AbcRetailFA\\host.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-25T14:26:19.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AbcRetailFA.csproj",
+              "DocumentMoniker": "C:\\Users\\israe\\source\\repos\\AbcRetailFA\\AbcRetailFA\\AbcRetailFA.csproj",
+              "RelativeDocumentMoniker": "AbcRetailFA\\AbcRetailFA.csproj",
+              "ToolTip": "C:\\Users\\israe\\source\\repos\\AbcRetailFA\\AbcRetailFA\\AbcRetailFA.csproj",
+              "RelativeToolTip": "AbcRetailFA\\AbcRetailFA.csproj",
+              "ViewState": "AQIAACgAAACAIAtZyGIawCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-25T14:16:19.878Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
